@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: glen.elleray@gmail.com
     phone: 0408 356 878
-    website: versatile-bfg.github.io/online-cv/ #do not add http://
+    website: #do not add http://
     linkedin: glen-elleray
     xing:
     github: versatile-bfg
@@ -44,7 +44,7 @@ career-profile:
     title: Career Profile
     summary: |
       WiP
-      
+
 education:
     - degree: Diploma of Applied Information Technology
       university: La Trobe University
@@ -71,22 +71,15 @@ education:
         Traineeship with ALDI stores Australia
 experiences:
     - role: Store Management Trainee
-      time: 2019 - Present
+      time: 2015 - Present
       company: ALDI Stores Australia, Wodonga VIC
       details: |
+        Previous roles include Deputy Manager and Store Assistant. Store Management Trainee role started in 2019.
         Duties included:
           - Managing staff and customer enquiries in a confident and compelling manner
           - Staff training, rostering and timesheets
           - Inventory management and stock ordering
           - Managing KPI’s
-
-    - role: Deputy Manager
-      time: 2015 - 2019
-      company: ALDI Stores Australia, Wodonga VIC
-      details: |
-        Duties included:
-          - Managing staff and customer enquiries in a confident and compelling manner
-          - Staff training
           - Customer service and stocking shelves
 
     - role: Server Support
@@ -108,7 +101,6 @@ experiences:
           - Maintenance and repairs of computer systems 
           - IT Staff training
           - Positive and effective communication with staff and clients
-
 projects:
     title: Projects
     intro: >
@@ -117,7 +109,6 @@ projects:
       - title: Warmod_BFG
         link: "#forums.alliedmods.net/showthread.php?t=225474"
         tagline: "A plugin specifically designed for Counter-Strike: Global Offensive, to be used for competitive matches, and provides the flexibility to suit any form of competition, including large tournaments down to clan matches."
-
 #publications:
 #    title: Publications
 #    intro: |
@@ -134,7 +125,6 @@ projects:
 #        link: "#"
 #        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
 #        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
 skills:
     title: Skills &amp; Proficiency
 
@@ -150,7 +140,5 @@ skills:
 
       - name: Sourcemod
         level: 80%
-
-
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
